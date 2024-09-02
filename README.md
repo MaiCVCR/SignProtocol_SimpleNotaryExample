@@ -7,4 +7,3 @@ This is a simple creation of an attestation using this schema: https://testnet-s
 Before starting, make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
-- Sign Protocol SDK (npm install @ethsign/sp-sdk)
